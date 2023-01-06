@@ -2,6 +2,7 @@
 Headless kmsgrab for use with obs-vkcapture
 
 Based on: https://github.com/peko/egl-headless-render
+and on: https://github.com/w23/drmtoy
 
 For use with obs-vkcapture: https://github.com/nowrep/obs-vkcapture/
 and with libstrangle: https://gitlab.com/torkel104/libstrangle
